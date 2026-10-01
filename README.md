@@ -77,14 +77,6 @@
   </picture>
 </div>
 
-## 💼 Featured Projects
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **FILMATE** | Movie platform — REST API with user and admin frontends | FastAPI · React · MySQL | [User App](https://filmate-mauve.vercel.app) · [Admin App](https://admin-filmate.vercel.app) |
-| **CLINIX** | Clinic management system | TypeScript · Python · T-SQL | — |
-| **FridgeRadar** | Fridge inventory and expiry tracking app | Python · Next.js · TypeScript | — |
-
 ## 📬 Connect with Me
 
 <div align="center">
