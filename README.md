@@ -9,6 +9,16 @@
   </a>
 </div>
 
+<div align="center">
+  <sub><b>🎮 My party</b></sub><br/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/249.gif" width="72" alt="Lugia" title="Lugia" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="72" alt="Charizard" title="Charizard" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="72" alt="Garchomp" title="Garchomp" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="72" alt="Lucario" title="Lucario" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="72" alt="Gengar" title="Gengar" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="72" alt="Eevee" title="Eevee" />
+</div>
+
 ## 🚀 About Me
 
 - 💻 Systems Engineering student at **UNMSM** (Peru)
