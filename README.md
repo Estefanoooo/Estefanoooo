@@ -18,6 +18,12 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" height="60" alt="Eevee" title="Eevee" />
 </div>
 
+## 🖥️ Terminal
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/main/assets/terminal-card.svg" alt="Estefano's terminal card" width="940" />
+</div>
+
 ## 🚀 About Me
 
 - 💻 Systems Engineering student at **UNMSM** (Peru)
