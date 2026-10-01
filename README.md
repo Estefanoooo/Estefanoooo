@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:312e81&height=200&section=header&text=Estefano%20Ramirez&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20%7C%20FastAPI%20%2F%20React&descAlignY=60&descSize=20" alt="Estefano Ramirez" />
+  <img src="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/main/assets/header.svg" alt="Estefano Ramirez - Backend and Full-Stack Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -17,7 +17,6 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="60" alt="Gengar" title="Gengar" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" height="60" alt="Eevee" title="Eevee" />
 </div>
-
 
 ## 🚀 About Me
 
