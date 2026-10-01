@@ -19,37 +19,37 @@
 
 ## 🛠️ Tech Stack
 
-**Backend**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-1e3a8a?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1e3a8a?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1e3a8a?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-1e3a8a?style=flat-square&logo=pydantic&logoColor=white)
+**Languages**
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css&theme=dark&perline=6" alt="Languages" />
 
-![React](https://img.shields.io/badge/React-312e81?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-312e81?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-312e81?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-312e81?style=flat-square&logo=reactrouter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-312e81?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-312e81?style=flat-square&logo=typescript&logoColor=white)
+**Backend & Frontend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,vite,tailwind,nodejs&theme=dark&perline=6" alt="Backend & Frontend" />
+<br/>
+<img src="https://img.shields.io/badge/SQLAlchemy-1e3a8a?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Pydantic-1e3a8a?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+<img src="https://img.shields.io/badge/React_Router-312e81?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4338ca?style=flat-square&logo=mysql&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PL%2FSQL-4338ca?style=flat-square&logo=oracle&logoColor=white)
-![T--SQL](https://img.shields.io/badge/T--SQL-4338ca?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=6" alt="MySQL" />
+<br/>
+<img src="https://img.shields.io/badge/PL%2FSQL-4338ca?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL" />
+<img src="https://img.shields.io/badge/T--SQL-4338ca?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
 
-**Testing & Tools**
+**Tools & Testing**
 
-![Pytest](https://img.shields.io/badge/Pytest-1e3a8a?style=flat-square&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-1e3a8a?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-1e3a8a?style=flat-square&logo=playwright&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-1e3a8a?style=flat-square&logo=eslint&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-1e3a8a?style=flat-square&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1e3a8a?style=flat-square&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-1e3a8a?style=flat-square&logo=powershell&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,powershell,windows,vercel,vitest&theme=dark&perline=8" alt="Tools & Testing" />
+<br/>
+<img src="https://img.shields.io/badge/Pytest-1e3a8a?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+<img src="https://img.shields.io/badge/Playwright-1e3a8a?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/ESLint-1e3a8a?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
+<img src="https://img.shields.io/badge/SonarQube-1e3a8a?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -82,7 +82,7 @@
 | :--- | :--- | :--- | :--- |
 | **FILMATE** | Movie platform — REST API with user and admin frontends | FastAPI · React · MySQL | [User App](https://filmate-mauve.vercel.app) · [Admin App](https://admin-filmate.vercel.app) |
 | **CLINIX** | Clinic management system | TypeScript · Python · T-SQL | — |
-| **FridgeRadar** | Fridge inventory and expiry tracking app | Python · React | — |
+| **FridgeRadar** | Fridge inventory and expiry tracking app | Python · Next.js · TypeScript | — |
 
 ## 📬 Connect with Me
 
