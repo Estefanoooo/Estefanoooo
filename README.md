@@ -54,26 +54,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estefanoooo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="Estefano's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estefanoooo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Estefanoooo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="Estefano's GitHub stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estefanoooo&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Estefanoooo&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=818CF8&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</div>
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Estefanoooo&theme=github_dark" alt="Repos per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Estefanoooo&theme=github_dark" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Estefanoooo&theme=github_dark" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Estefanoooo&theme=github_dark" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Estefanoooo&theme=github_dark" alt="Profile Details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/output/github-snake.svg" />
+  </picture>
 </div>
 
 ## 💼 Featured Projects
