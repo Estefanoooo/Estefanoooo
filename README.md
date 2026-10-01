@@ -63,7 +63,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Estefanoooo&bg_color=0D1117&color=818CF8&line=818CF8&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Estefanoooo&theme=github_dark" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Estefanoooo&theme=github_dark" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Estefanoooo&theme=github_dark" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Estefanoooo&theme=github_dark" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Estefanoooo&theme=github_dark" alt="Profile Details" />
 </div>
 
 ## 💼 Featured Projects
