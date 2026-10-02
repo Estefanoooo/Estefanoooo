@@ -1,65 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" role="img" aria-label="Estefano Ramirez, Backend and Full-Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" role="img" aria-label="Estefano Ramirez - Software Developer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080d1b"/>
-      <stop offset="0.58" stop-color="#10162b"/>
-      <stop offset="1" stop-color="#151537"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#818cf8"/>
-      <stop offset="1" stop-color="#c4b5fd"/>
-    </linearGradient>
-    <radialGradient id="ambient" cx="88%" cy="48%" r="56%">
-      <stop offset="0" stop-color="#6366f1" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="round"><rect width="1200" height="260" rx="20"/></clipPath>
+    <clipPath id="round"><rect width="1200" height="260" rx="16"/></clipPath>
   </defs>
 
   <g clip-path="url(#round)">
-    <rect width="1200" height="260" fill="url(#bg)"/>
-    <rect width="1200" height="260" fill="url(#ambient)"/>
-    <path d="M790 0h110L744 260H634z" fill="#818cf8" opacity="0.035"/>
-    <circle cx="1060" cy="130" r="154" fill="none" stroke="#a5b4fc" stroke-opacity="0.08"/>
-    <circle cx="1060" cy="130" r="126" fill="none" stroke="#a5b4fc" stroke-opacity="0.06"/>
-    <rect x="0" y="0" width="6" height="260" fill="url(#accent)"/>
-
-    <rect x="78" y="31" width="270" height="27" rx="13.5" fill="#151d36" stroke="#303b62"/>
-    <circle cx="96" cy="44.5" r="3.5" fill="#a5b4fc"/>
-    <text x="109" y="49" font-size="10.5" font-weight="700" letter-spacing="1.15" fill="#c7d2fe">SYSTEMS ENGINEERING · UNMSM</text>
-
-    <text x="78" y="121" font-size="52" font-weight="750" letter-spacing="-1.4">
-      <tspan fill="#f8fafc">Estefano</tspan><tspan fill="#a5b4fc"> Ramirez</tspan>
-    </text>
-    <text x="82" y="157" font-size="20" font-weight="500" letter-spacing="0.1" fill="#cbd5e1">Backend &amp; Full-Stack Developer</text>
-
-    <g font-size="10.5" font-weight="700" letter-spacing="0.8" text-anchor="middle">
-      <rect x="80" y="188" width="82" height="27" rx="13.5" fill="#171f3a" stroke="#303c64"/>
-      <text x="121" y="205.5" fill="#c7d2fe">PYTHON</text>
-      <rect x="171" y="188" width="88" height="27" rx="13.5" fill="#171f3a" stroke="#303c64"/>
-      <text x="215" y="205.5" fill="#c7d2fe">FASTAPI</text>
-      <rect x="268" y="188" width="76" height="27" rx="13.5" fill="#171f3a" stroke="#303c64"/>
-      <text x="306" y="205.5" fill="#c7d2fe">REACT</text>
-      <rect x="353" y="188" width="112" height="27" rx="13.5" fill="#171f3a" stroke="#303c64"/>
-      <text x="409" y="205.5" fill="#c7d2fe">TYPESCRIPT</text>
-    </g>
-
-    <g>
-      <rect x="834" y="34" width="300" height="192" rx="18" fill="#0a0f20" fill-opacity="0.82" stroke="#3a456e" stroke-opacity="0.85"/>
-      <circle cx="855" cy="55" r="4" fill="#818cf8"/>
-      <circle cx="870" cy="55" r="4" fill="#6366f1" opacity="0.7"/>
-      <circle cx="885" cy="55" r="4" fill="#c4b5fd" opacity="0.6"/>
-      <text x="1113" y="59" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" letter-spacing="1.2" fill="#7884ad">TECH STACK</text>
-      <line x1="852" y1="73" x2="1116" y2="73" stroke="#303a5d"/>
-
-      <g font-family="Consolas, 'Courier New', monospace" font-size="14">
-        <text x="858" y="103"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> stack = </tspan><tspan fill="#a5b4fc">{</tspan></text>
-        <text x="876" y="132"><tspan fill="#94a3b8">api: </tspan><tspan fill="#86efac">&quot;FastAPI&quot;</tspan><tspan fill="#94a3b8">,</tspan></text>
-        <text x="876" y="160"><tspan fill="#94a3b8">ui:  </tspan><tspan fill="#86efac">&quot;React&quot;</tspan><tspan fill="#94a3b8">,</tspan></text>
-        <text x="858" y="189" fill="#a5b4fc">};</text>
-      </g>
-    </g>
+    <rect width="1200" height="260" fill="#0d1117"/>
+    <text x="600" y="119" text-anchor="middle" font-size="58" font-weight="700" letter-spacing="-1.2" fill="#f0f6fc">Estefano Ramirez</text>
+    <line x1="560" y1="148" x2="640" y2="148" stroke="#818cf8" stroke-width="2" stroke-linecap="round"/>
+    <text x="600" y="190" text-anchor="middle" font-size="24" font-weight="500" letter-spacing="0.4" fill="#a5b4fc">Software Developer</text>
   </g>
 
-  <rect x="1" y="1" width="1198" height="258" rx="19" fill="none" stroke="#333d63" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="258" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
 </svg>
