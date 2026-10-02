@@ -1,5 +1,9 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Estefano Ramirez</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:1e3a8a&height=200&section=header&text=Estefano%20Ramirez&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descAlignY=60&descSize=24" alt="Estefano Ramirez - Software Developer" />
+</div>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Estefano Ramirez</h1>
 <h3 align="center">Software Developer</h3>
 
 <div align="center">
