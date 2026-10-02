@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/5527ec699aad17fb67f54ee73815049d28d79da7/assets/header.svg" alt="Estefano Ramirez - Software Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/3373ae383883e76fdbea34f6e857e5d9d4038da4/assets/header.svg" alt="Estefano Ramirez - Software Developer" width="100%" />
 </div>
 
 <div align="center">
