@@ -13,11 +13,15 @@
 
 ## 🚀 About Me
 
-- 💻 Systems Engineering student at **UNMSM** (Peru)
-- 🔧 Focused on **backend & full-stack development**
-- 🧩 I enjoy designing clean REST APIs and connecting them to modern frontends
-- 🌱 Currently building full-stack applications with **FastAPI + React**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/estefanorg/) · [WhatsApp](https://wa.me/51904691771)
+💻 Software Engineering student at **UNMSM (Peru)**, passionate about building practical software solutions.
+
+🔧 Interested in **backend and full-stack development**, with a focus on REST APIs, databases, and scalable application architecture.
+
+🛠️ Currently working with **Python, FastAPI, React, Java, Spring Boot, SQL, and Oracle**.
+
+🧩 I enjoy turning ideas into functional applications, designing clean APIs, and connecting reliable backends with modern user interfaces.
+
+🌱 Always learning, improving my development skills, and exploring new technologies.
 
 ## 🛠️ Tech Stack
 
