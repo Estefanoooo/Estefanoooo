@@ -4,10 +4,6 @@
 </div>
 
 <div align="center">
-  <h2>Backend Developer</h2>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/249.gif" height="60" alt="Lugia" title="Lugia" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" height="60" alt="Charizard" title="Charizard" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" height="60" alt="Garchomp" title="Garchomp" />
