@@ -1,7 +1,6 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Estefanoooo/Estefanoooo/3373ae383883e76fdbea34f6e857e5d9d4038da4/assets/header.svg" alt="Estefano Ramirez - Software Developer" width="100%" />
-</div>
+<h1 align="center">Hi 👋, I'm Estefano Ramirez</h1>
+<h3 align="center">Software Developer</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/249.gif" height="60" alt="Lugia" title="Lugia" />
